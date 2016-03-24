@@ -1,7 +1,3 @@
-// Name: Samana Shrestha
-// Course: CS 102
-// Assignment 5
-// Date: 8th November 2015
 /* CODE DESCRIPTION:
  * Histogram is an instantiable class. It asks the user to input data and
  * creates a histogram to represent the data.
